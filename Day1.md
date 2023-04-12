@@ -8,9 +8,9 @@ I have created an Azure student account for learning Azure.
 On Day 1, I have created a Active Directory and ADDS(Azure AD Domain Services).
 
 - Azure Active directory is quite different from normal active directory, Microsoft AAD provides Identity as a service [](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-compare-azure-ad-to-ad).
-- Creation of managed domain is very simple, Search for AADS in Azure services, you will find the below icon ![](.pastes\2023-04-11-20-53-15.png)
+- Creation of managed domain is very simple, Search for AADS in Azure services, you will find the below icon ![](images\2023-04-11-20-53-15.png)
 
-##Instructions for creation of Domain
+## Instructions for creation of Domain
 1. Click on create domain.
 2. Select Subscription and Resource Group, if there is no resource group click on create new.
 3. Give the dns domain name, that you want to create, I have created something like domains.local
