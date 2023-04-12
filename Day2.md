@@ -26,8 +26,8 @@ Let's add the deployed host to the domain.
 3. Click on change in computer name.[^3] , Change member of option to domain and provide the domain name that was created before.[^4]
 4. It will ask for AD username and password, provide them and it will be connected and asks for a restart.
 
-[^1]: The address space for a virtual network is composed of one or more non-overlapping address ranges .    ![](.pastes/2023-04-12-21-38-37.png)
+[^1]: The address space for a virtual network is composed of one or more non-overlapping address ranges .    ![](./pastes/2023-04-12-21-38-37.png)
 -----------------------------------------------------------------------
-[^2]: ![](.pastes/2023-04-12-21-53-08.png)
-[^3]:  ![](.pastes/2023-04-12-22-07-09.png)
-[^4]: ![](.pastes/2023-04-12-22-10-19.png)
+[^2]: ![](./pastes/2023-04-12-21-53-08.png)
+[^3]:  ![](./pastes/2023-04-12-22-07-09.png)
+[^4]: ![](./pastes/2023-04-12-22-10-19.png)
